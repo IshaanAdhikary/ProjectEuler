@@ -1,0 +1,1 @@
+This code solves the problem by just testing every single possible combination. For every possible combination of a and b, it tests for the first value of n that isn't prime. It saves the highest one, then multiplies a and b to give the answer.

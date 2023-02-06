@@ -1,0 +1,1 @@
+Basically check every possible combination of factors and add the pandigital ones to a HashSet. The details are in the code.
